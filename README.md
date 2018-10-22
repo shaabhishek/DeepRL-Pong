@@ -1,15 +1,9 @@
 # DeepRL-Pong
-Deep RL implementation for solving Pong and CartPole
+Deep RL implementation for solving Pong
 
 
 Following implementations exist:
 
-- Cartpole
+- Pong (RAW pixels version)
+-- DQN
 -- A2C
--- DQN
-
-- Pong (RAM version)
--- DQN
-
-- Pong (raw pixel version)
--- DQN
